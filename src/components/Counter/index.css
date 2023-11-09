@@ -1,0 +1,40 @@
+/* write your css code */
+.headingElement {
+  font-family: roboto;
+  text-align: center;
+}
+.cardContainer {
+  list-style-type: none;
+  width: 100%;
+}
+.avatarImage {
+  height: 100px;
+  margin: 10px;
+  border-radius: 6px;
+}
+.listContainer {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: #f5f3f2;
+  margin: 10px;
+}
+.nameContainer {
+  margin-left: 20px;
+  min-width: 500px;
+}
+.detailsContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.button {
+  height: 30px;
+  width: 100px;
+  cursor: pointer;
+  margin: 20px;
+}
+.linkItem {
+  text-decoration: none;
+  text-underline: none;
+}
